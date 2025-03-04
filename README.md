@@ -27,7 +27,7 @@ Capable, and Autonomous.
 
 Current AI Systems   |  Future Trend
 :-------------------------:|:-------------------------:
-<img src="./figures/perf.png" width="80%">  | <img src="./figures/pred.png" width="80%"> 
+<img src="./figures/perf.png" width="100%">  | <img src="./figures/pred.png" width="100%"> 
 
 ## Environment
 
