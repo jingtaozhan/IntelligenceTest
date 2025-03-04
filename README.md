@@ -44,13 +44,13 @@ This repo is developed with Python 3.10. The following packages are required:
 We provide the example evaluation scripts for vision, search, recommendation, and language:
 
 - **Vision**: [Text-to-Image](./vision_text2image.ipynb)
+- **Language**: [Writing (Prefix-to-NextToken)](./language_writing.ipynb), [Question-to-Answer](./language_qa.ipynb)
 - **Search**: Query-to-Document (coming soon)
 - **Recommendation**: User-to-Item (coming soon)
-- **Language**: [Writing (Prefix-to-NextToken)](./language_writing.ipynb), [Question-to-Answer](./language_qa.ipynb)
 
 ## Citation
 
-If you use this dataset in your research, please cite this paper:
+If you use **Survival Game** in your research, please cite this paper:
 
 ```
 @misc{zhan2025evaluating,
