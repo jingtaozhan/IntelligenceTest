@@ -37,7 +37,8 @@ This repo is developed with Python 3.10. The following packages are required:
 - Datasets
 - Transformers
 - OpenClip (For vision tasks)
-- Faiss (For vision tasks)
+- Faiss (For vision tasks & search tasks)
+- ir_datasets(For search tasks)
 
 ## Examples
 
