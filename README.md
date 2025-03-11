@@ -47,7 +47,7 @@ We provide the example evaluation scripts for vision, search, recommendation, an
 - **Vision**: [Text-to-Image](./vision_text2image.ipynb)
 - **Language**: [Writing (Prefix-to-NextToken)](./language_writing.ipynb), [Question-to-Answer](./language_qa.ipynb)
 - **Search**: [Query-to-Document](./search_query2doc.ipynb)
-- **Recommendation**: User-to-Item (coming soon)
+- **Recommendation**: [User-to-Item](./recommendation_user2item.ipynb)
 
 ## Citation
 
